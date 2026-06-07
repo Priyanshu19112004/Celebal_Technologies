@@ -162,17 +162,14 @@ Concepts Used:
 ## Project Structure
 
 ```text
-Customer_Sales_Insights_SQL
+Assignment_3
 │
-├── Dataset
-│   └── Superstore_raw.csv
-│
-├── SQL
-│   └── Assignment_3.sql
+├──  Superstore_raw.csv
+├── Assignment_3.sql
 │
 ├── Screenshots
-│   ├── Q1_Output.png
-│   ├── Q2_Output.png
+│   ├── Image(1).png
+│   ├── Image(2).png
 │   ├── ...
 │
 ├── Assignment_3_Report.docx
