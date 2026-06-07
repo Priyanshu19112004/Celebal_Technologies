@@ -165,7 +165,7 @@ Concepts Used:
 Customer_Sales_Insights_SQL
 │
 ├── Dataset
-│   └── Sample-Superstore.csv
+│   └── Superstore_raw.csv
 │
 ├── SQL
 │   └── Assignment_3.sql
@@ -175,6 +175,7 @@ Customer_Sales_Insights_SQL
 │   ├── Q2_Output.png
 │   ├── ...
 │
+├── Assignment_3_Report.docx
 │
 └── README.md
 ```
