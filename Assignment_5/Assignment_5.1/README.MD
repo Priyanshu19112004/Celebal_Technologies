@@ -174,4 +174,4 @@ B.Tech Computer Science Engineering
 
 Celebal Technologies Internship Program
 
-Apache Spark | Data Engineering | Big Data Analytics
+Apache Spark | Data Engineering 
