@@ -1,0 +1,1 @@
+receipt_id,shipment_id,product_id,received_quantity,actual_receipt_date,warehouse_id,status,_ingested_at,_source_file,_pipeline_version,_fail_reason

@@ -1,0 +1,101 @@
+product_id,product_name,unit_price,category,min_order_qty
+P001,Product_1,32504,Office Supplies,3
+P002,Product_2,28412,Office Supplies,11
+P003,Product_3,22793,Appliances,1
+P004,Product_4,9318,Hardware,11
+P005,Product_5,78196,Electronics,17
+P006,Product_6,39353,Furniture,2
+P007,Product_7,48471,Furniture,18
+P008,Product_8,69021,Furniture,16
+P009,Product_9,15253,Appliances,15
+P010,Product_10,31278,Appliances,6
+P011,Product_11,69755,Hardware,17
+P012,Product_12,58756,Office Supplies,14
+P013,Product_13,67276,Furniture,18
+P014,Product_14,67264,Appliances,2
+P015,Product_15,16286,Hardware,18
+P016,Product_16,35332,Hardware,4
+P017,Product_17,60906,Appliances,16
+P018,Product_18,61213,Hardware,10
+P019,Product_19,11670,Furniture,15
+P020,Product_20,53478,Appliances,13
+P021,Product_21,70387,Appliances,7
+P022,Product_22,40495,Electronics,19
+P023,Product_23,16565,Office Supplies,20
+P024,Product_24,15054,Furniture,8
+P025,Product_25,7157,Office Supplies,4
+P026,Product_26,61460,Furniture,1
+P027,Product_27,21855,Furniture,17
+P028,Product_28,42086,Office Supplies,2
+P029,Product_29,74015,Furniture,18
+P030,Product_30,52951,Hardware,19
+P031,Product_31,3236,Furniture,3
+P032,Product_32,2996,Electronics,8
+P033,Product_33,63895,Electronics,20
+P034,Product_34,69295,Hardware,20
+P035,Product_35,38282,Hardware,14
+P036,Product_36,41384,Office Supplies,8
+P037,Product_37,44633,Appliances,7
+P038,Product_38,63775,Appliances,14
+P039,Product_39,56345,Appliances,3
+P040,Product_40,62406,Electronics,18
+P041,Product_41,34926,Appliances,2
+P042,Product_42,5519,Hardware,12
+P043,Product_43,24988,Furniture,4
+P044,Product_44,11871,Electronics,10
+P045,Product_45,15637,Electronics,3
+P046,Product_46,65397,Hardware,1
+P047,Product_47,6582,Appliances,7
+P048,Product_48,10693,Furniture,14
+P049,Product_49,49710,Furniture,9
+P050,Product_50,59393,Electronics,17
+P051,Product_51,31802,Furniture,16
+P052,Product_52,15095,Hardware,18
+P053,Product_53,49479,Appliances,15
+P054,Product_54,65589,Hardware,1
+P055,Product_55,58975,Hardware,7
+P056,Product_56,13087,Office Supplies,10
+P057,Product_57,34650,Hardware,9
+P058,Product_58,10248,Appliances,15
+P059,Product_59,31724,Electronics,13
+P060,Product_60,69862,Hardware,18
+P061,Product_61,22865,Furniture,13
+P062,Product_62,16096,Furniture,8
+P063,Product_63,39727,Electronics,2
+P064,Product_64,27540,Appliances,14
+P065,Product_65,45028,Hardware,1
+P066,Product_66,36282,Electronics,18
+P067,Product_67,71795,Electronics,19
+P068,Product_68,15974,Hardware,3
+P069,Product_69,23295,Electronics,5
+P070,Product_70,49910,Furniture,4
+P071,Product_71,33885,Office Supplies,19
+P072,Product_72,30676,Office Supplies,14
+P073,Product_73,70179,Office Supplies,7
+P074,Product_74,31856,Appliances,17
+P075,Product_75,70544,Furniture,8
+P076,Product_76,75160,Furniture,12
+P077,Product_77,27171,Appliances,15
+P078,Product_78,69752,Furniture,19
+P079,Product_79,61169,Electronics,7
+P080,Product_80,10296,Furniture,16
+P081,Product_81,6130,Hardware,20
+P082,Product_82,22260,Furniture,15
+P083,Product_83,11986,Hardware,7
+P084,Product_84,70928,Furniture,5
+P085,Product_85,14039,Appliances,12
+P086,Product_86,12685,Furniture,7
+P087,Product_87,24955,Hardware,7
+P088,Product_88,50152,Electronics,7
+P089,Product_89,68945,Electronics,1
+P090,Product_90,9286,Furniture,12
+P091,Product_91,4352,Furniture,10
+P092,Product_92,32328,Appliances,8
+P093,Product_93,49795,Office Supplies,13
+P094,Product_94,34745,Hardware,5
+P095,Product_95,54687,Furniture,19
+P096,Product_96,39617,Appliances,17
+P097,Product_97,38345,Furniture,5
+P098,Product_98,71395,Appliances,9
+P099,Product_99,75961,Office Supplies,19
+P100,Product_100,38394,Hardware,20

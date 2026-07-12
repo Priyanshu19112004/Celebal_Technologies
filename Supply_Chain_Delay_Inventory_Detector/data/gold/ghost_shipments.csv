@@ -1,0 +1,1 @@
+shipment_id,supplier_id,product_id,shipped_quantity,dispatch_date,expected_delivery_date,status,destination_warehouse,_ingested_at,_source_file,_pipeline_version,_fail_reason

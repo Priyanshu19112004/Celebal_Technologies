@@ -1,0 +1,33 @@
+{
+    "pipeline_name": "Supply Chain Delay & Inventory Mismatch Detector",
+
+    "version": "1.0",
+
+    "bronze_layer": "data/bronze/",
+
+    "silver_layer": "data/silver/",
+
+    "gold_layer": "data/gold/",
+
+    "quarantine_layer": "data/quarantine/",
+
+    "sources": {
+        "supplier_master": "data/raw/supplier_master.csv",
+        "supplier_shipments": "data/raw/supplier_shipments.csv",
+        "warehouse_receipts": "data/raw/warehouse_receipts.csv",
+        "product_catalog": "data/raw/product_catalog.csv"
+    },
+
+    "quality_rules": {
+        "positive_quantity": true,
+        "remove_duplicates": true,
+        "validate_dates": true,
+        "check_null_supplier": true,
+        "check_null_product": true
+    },
+
+    "thresholds": {
+        "quantity_variance_percent": 5,
+        "delivery_delay_days": 3
+    }
+}
